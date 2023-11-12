@@ -13,4 +13,4 @@ Bem-vindo ao meu projeto Java! Este projeto contém um código simples apenas pa
 8. Criar algum breakpoint condicional.
 9. Subir seu projeto no Github com pelo menos 2 branchs.
 
-os prints estão na pasta "Prints."
+os prints estão na pasta "Prints" na Branch1.
